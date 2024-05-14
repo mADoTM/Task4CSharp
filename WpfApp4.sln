@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp4", "WpfApp4\WpfApp4.csproj", "{F5788952-3FA2-41D3-BB57-CFF9223E2AB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{BAAC8AAC-50B2-4568-83D2-D2880B237963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5788952-3FA2-41D3-BB57-CFF9223E2AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5788952-3FA2-41D3-BB57-CFF9223E2AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5788952-3FA2-41D3-BB57-CFF9223E2AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5788952-3FA2-41D3-BB57-CFF9223E2AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAAC8AAC-50B2-4568-83D2-D2880B237963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAC8AAC-50B2-4568-83D2-D2880B237963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAC8AAC-50B2-4568-83D2-D2880B237963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAC8AAC-50B2-4568-83D2-D2880B237963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
